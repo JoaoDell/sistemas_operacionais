@@ -1,0 +1,11 @@
+/mnt/c/Users/User/Desktop/2022.1/SO/trab2/a.sh
+/mnt/c/Users/User/Desktop/2022.1/SO/trab2/b.sh
+/mnt/c/Users/User/Desktop/2022.1/SO/trab2/shebang.sh
+/mnt/c/Users/User/Desktop/2022.1/SO/trab2/shell.sh
+/mnt/c/Users/User/Desktop/2022.1/SO/trab2/test/1.sh
+/mnt/c/Users/User/Desktop/2022.1/SO/trab2/test/2.sh
+/mnt/c/Users/User/Desktop/2022.1/SO/trab2/test 2/3.sh
+/mnt/c/Users/User/Desktop/2022.1/SO/trab2/test 2/4.sh
+/mnt/c/Users/User/Desktop/2022.1/SO/trab2/test 2/test3/5.sh
+/mnt/c/Users/User/Desktop/2022.1/SO/trab2/teste.sh
+/mnt/c/Users/User/Desktop/2022.1/SO/trab2/teste2.sh
